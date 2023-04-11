@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>ChoLatte</title>
+  <title>Eat Fit Go</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -47,7 +47,7 @@
 
       <div class="profile">
         <img src="assets/img/bg_1.jpg" alt="" width="200" height="100" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">ChoLatte</a></h1>
+        <h1 class="text-light"><a href="index.html">Eat Fit Go</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://wa.me/08995258011/" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
           <a href="https://wafiqmuhaz.netlify.app/" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -76,7 +76,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>ChoLatte</h1>
+      <h1>Eat Fit Go</h1>
       <p>Supply <span class="typed" data-typed-items="Cookie, Latte, Low Calories"></span></p>
     </div>
   </section><!-- End Hero -->
@@ -189,11 +189,11 @@
                   <div class="row">
                     <div class="col-lg">
                       <ul>
-                        <li><i class="bi bi-chevron-right"></i> <strong>Nama:</strong> <span>Wafiq Muhaz</span>
+                        <li><i class="bi bi-chevron-right"></i> <strong>Nama:</strong> <span>Rama Firmansyah</span>
                         </li>
                         <li><i class="bi bi-chevron-right"></i> <strong>Tempat/Tgl Lahir:</strong> <span>Bandung, 2X XXX 2002</span>
                         </li>
-                        <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>wafiqmuhaz@gmail.com</span></li>
+                        <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>ramafirmansyah@gmail.com</span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>No Hp:</strong> <span>+62 XXX XXX XXX</span></li>
                       </ul>
                       <ul>
@@ -217,7 +217,7 @@
             <div class="col-lg-6" data-aos="fade-up">
               <h3 class="resume-title">Summary</h3>
               <div class="resume-item pb-0">
-                <h4>ChoLatte</h4>
+                <h4>Eat Fit Go</h4>
                 <p><em>Terima kasih kepada para dosen dan tenaga pengajar yang telah mengajari kami
                     Mengenai koding dan bahasa pemograman. Walaupun terkadang kalian killer,
                     Tapi kemampuan program ini akan kami bawa ke dunia kerja.</em></p>
