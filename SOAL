@@ -1,0 +1,27 @@
+Nama			= Aswawal
+NIM				= 200401010101
+Kelas			= IT-401
+Mata Kuliah		= Pemograman Web II
+Dosen			= Catur Nugroho, S.Kom, M.Kom
+
+...................................................................................................................................
+Requirment. 
+PHP V 8			= XAMPP	V 3.2.5
+Terminal		= CMD dan Gitbash
+Code Editor		= Visual Studio Code
+Template CSS	= Bootstrap V 5.0
+Framework PHP 	= Laravel V 8
+
+...................................................................................................................................
+SOAL 
+	1. Buatkan sebuah halaman website yang berisikan Curriculum Vitae (CV) diri Anda dengan template dan susunan konten yang menarik, dengan ketentuan 
+	sebagai berikut: 
+		a. Memiliki image/foto diri
+		b. Minimal terdapat 2 paragraf tentang deskripsi diri atau apapun yang menjelaskan tentang diri Anda. 
+		c. Memiliki tag-tag Heading dan elemen Komentar
+		d. Memiliki tag-tag untuk Text Formatting
+		e. Memiliki minimal 3 link internal atau eksternal (bebas menuju ke apapun) 
+		f. Memiliki minimal 3 image/gambar
+		g. Memiliki minimal 2 tabel
+		h. Memiliki minimal 2 list
+		
